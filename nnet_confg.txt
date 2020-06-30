@@ -1,0 +1,9 @@
+indim:27
+outdim:1
+activation:relu relu relu sigmoid
+hiddenlayers:27 128 128 128 1
+loss:binary_crossentropy
+nbepochs:40
+batchsize:32
+normalizex:1
+normalizey:0
